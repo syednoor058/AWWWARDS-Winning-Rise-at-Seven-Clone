@@ -17,8 +17,8 @@ const works = [
   { id: 8, name: "Financial Services", title: "B2B Marketing", image: "/work-images/work-4.jpg", badge: "Finance", timeline: "2022-2023", bg: "bg-pink-400" },
   { id: 9, name: "Global Fashion Brand", title: "SEO & Digital PR", image: "/work-images/work-1.jpg", badge: "Fashion", timeline: "2024-2025", bg: "bg-blue-400" },
   { id: 10, name: "Tech Startup Scale-up", title: "Content & Growth Strategy", image: "/work-images/work-2.jpg", badge: "Technology", timeline: "2023-2024", bg: "bg-teal-400" },
-  { id: 11, name: "Travel & Hospitality", title: "Digital PR Campaign", image: "/work-images/work-3.jpg", badge: "Travel", timeline: "2025-2026", bg: "bg-orange-400" },
-  { id: 12, name: "Financial Services", title: "B2B Marketing", image: "/work-images/work-4.jpg", badge: "Finance", timeline: "2022-2023", bg: "bg-pink-400" },
+  { id: 11, name: "Travel & Hospitality", title: "An extra 3m clicks regionally through SEO", image: "/work-images/work-3.jpg", badge: "Travel", timeline: "2025-2026", bg: "bg-orange-400" },
+  { id: 12, name: "Financial Services", title: "A B2B success story for Dojo card machines", image: "/work-images/work-4.jpg", badge: "Finance", timeline: "2022-2023", bg: "bg-pink-400" },
 ];
 
 export default function FeaturedWork() {
