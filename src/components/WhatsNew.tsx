@@ -12,7 +12,7 @@ const newsItems = [
   {
     id: 1,
     category: "Insights",
-    image: "/whats-new/wn-1.png",
+    image: "/whats-new/wn-1.jpg",
     author: { name: "Carrie Rose", avatar: "/work-images/work-1.jpg" },
     time: "2 mins",
     title: "Ryan McNamara Is Now Rise at Seven's Global Operations Director"
